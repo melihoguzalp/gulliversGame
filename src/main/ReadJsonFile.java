@@ -46,7 +46,7 @@ public class ReadJsonFile {
 		System.out.print(name + " : ");
 
 		// Get player score
-		int score = (int) playerObject.get("playerScore");
+		Long score = (Long) playerObject.get("playerScore");
 		System.out.println(score);
 
 	}

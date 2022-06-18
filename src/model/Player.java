@@ -5,13 +5,13 @@ public class Player {
 
 	private int id;
 	private String playerName;
-	private int playerScore;
+	private Long playerScore;
 
 	public Player() {
 
 	}
 
-	public Player(int id, String playerName, int playerScore) {
+	public Player(int id, String playerName, Long playerScore) {
 		super();
 		this.id = id;
 		this.playerName = playerName;
@@ -34,11 +34,11 @@ public class Player {
 		this.playerName = playerName;
 	}
 
-	public int getPlayerScore() {
+	public Long getPlayerScore() {
 		return playerScore;
 	}
 
-	public void setPlayerScore(int playerScore) {
+	public void setPlayerScore(Long playerScore) {
 		this.playerScore = playerScore;
 	}
 
