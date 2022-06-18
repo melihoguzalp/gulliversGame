@@ -1,4 +1,4 @@
-package gulliversGame.model;
+package model;
 
 public class Player {
 	// player name;scored points;
