@@ -1,0 +1,63 @@
+[
+{
+	"id" : 1,
+	"playerName" : "Melih",
+	"playerScore" : 100;
+},
+{
+	"id" : 2,
+	"playerName" : "Melike",
+	"playerScore" : 150;
+},
+{
+	"id" : 3,
+	"playerName" : "Aydın",
+	"playerScore" : 170;
+},
+{
+	"id" : 4,
+	"playerName" : "Murat",
+	"playerScore" : 100;
+},
+{
+	"id" : 5,
+	"playerName" : "Sultan",
+	"playerScore" : 150;
+},
+{
+	"id" : 6,
+	"playerName" : "İrem",
+	"playerScore" : 170;
+},
+{
+	"id" : 7,
+	"playerName" : "Eren",
+	"playerScore" : 100;
+},
+{
+	"id" : 8,
+	"playerName" : "Ayşe",
+	"playerScore" : 150;
+},
+{
+	"id" : 9,
+	"playerName" : "Oğuz",
+	"playerScore" : 170;
+},
+{
+	"id" : 10,
+	"playerName" : "Ali",
+	"playerScore" : 100;
+},
+{
+	"id" : 11,
+	"playerName" : "Alp",
+	"playerScore" : 150;
+},
+{
+	"id" : 12,
+	"playerName" : "Selim",
+	"playerScore" : 170;
+}
+
+]
