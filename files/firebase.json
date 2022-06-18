@@ -3,63 +3,63 @@
 		"player": {
 			"id": 1,
 			"playerName": "Melih",
-			"playerScore": "100"
+			"playerScore": 100
 		}
 	},
 	{
 		"player": {
 			"id": 2,
 			"playerName": "Melike",
-			"playerScore": "150"
+			"playerScore": 150
 		}
 	},
 	{
 		"player": {
 			"id": 3,
 			"playerName": "Aydin",
-			"playerScore": "170"
+			"playerScore": 170
 		}
 	},
 	{
 		"player": {
 			"id": 4,
 			"playerName": "Murat",
-			"playerScore": "110"
+			"playerScore": 110
 		}
 	},
 	{
 		"player": {
 			"id": 5,
 			"playerName": "Sultan",
-			"playerScore": "160"
+			"playerScore": 160
 		}
 	},
 	{
 		"player": {
 			"id": 6,
 			"playerName": "Irem",
-			"playerScore": "180"
+			"playerScore": 180
 		}
 	},
 	{
 		"player": {
 			"id": 7,
 			"playerName": "Eren",
-			"playerScore": "90"
+			"playerScore": 90
 		}
 	},
 	{
 		"player": {
 			"id": 8,
 			"playerName": "Ayse",
-			"playerScore": "50"
+			"playerScore": 50
 		}
 	},
 	{
 		"player": {
 			"id": 9,
 			"playerName": "Oguz",
-			"playerScore": "190"
+			"playerScore": 190
 		}
 	},
 	{
@@ -73,14 +73,14 @@
 		"player": {
 			"id": 11,
 			"playerName": "Alp",
-			"playerScore": "159"
+			"playerScore": 159
 		}
 	},
 	{
 		"player": {
 			"id": 12,
 			"playerName": "Selim",
-			"playerScore": "191"
+			"playerScore": 191
 		}
 	}
 ]

@@ -5,13 +5,13 @@ public class Player {
 
 	private int id;
 	private String playerName;
-	private String playerScore;
+	private int playerScore;
 
 	public Player() {
 
 	}
 
-	public Player(int id, String playerName, String playerScore) {
+	public Player(int id, String playerName, int playerScore) {
 		super();
 		this.id = id;
 		this.playerName = playerName;
@@ -34,11 +34,11 @@ public class Player {
 		this.playerName = playerName;
 	}
 
-	public String getPlayerScore() {
+	public int getPlayerScore() {
 		return playerScore;
 	}
 
-	public void setPlayerScore(String playerScore) {
+	public void setPlayerScore(int playerScore) {
 		this.playerScore = playerScore;
 	}
 
@@ -46,5 +46,4 @@ public class Player {
 	public String toString() {
 		return "Player [id=" + id + ", playerName=" + playerName + ", playerScore=" + playerScore + "]";
 	}
-
 }
